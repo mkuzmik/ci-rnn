@@ -1832,4 +1832,1753 @@ Epoch 504/1000
 Epoch 505/1000
 16556/16556 [==============================] - 75s 5ms/step - loss: 1.9348e-07
 Epoch 506/1000
-15360/16556 [==========================>...] - ETA: 6s - loss: 1.9311e-07
+16556/16556 [==============================] - 90s 5ms/step - loss: 1.9309e-07
+Epoch 507/1000
+16556/16556 [==============================] - 77s 5ms/step - loss: 1.9274e-07
+Epoch 508/1000
+16556/16556 [==============================] - 63s 4ms/step - loss: 1.9243e-07
+Epoch 509/1000
+16556/16556 [==============================] - 65s 4ms/step - loss: 1.9212e-07
+Epoch 510/1000
+16556/16556 [==============================] - 65s 4ms/step - loss: 1.9177e-07
+Epoch 511/1000
+16556/16556 [==============================] - 62s 4ms/step - loss: 1.9148e-07
+
+
+----- Generating text after Epoch: 510
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am to get? ’
+
+He ‘ your majesty means the king down, if to hatter, ’ said the mock turtle.
+
+How ‘, i said, ’ said the caterpillar.
+
+Well ‘, perhaps you ‘ ’ said the first, it?.
+
+One ‘, i know it was, ’ said alice: i ‘ ’ so they good them back once, and to the the queen thought into the queen. The we to break she who it knew to her go, till she was shall have to done with a little: of ‘ could itll you another thinking out of this was to little up everything was a little cat, and she who put them it and time, this looked at first was with one: she ‘ never found to your some, ’ family thought how to
+Epoch 512/1000
+16556/16556 [==============================] - 62s 4ms/step - loss: 1.9123e-07
+Epoch 513/1000
+16556/16556 [==============================] - 65s 4ms/step - loss: 1.9085e-07
+Epoch 514/1000
+16556/16556 [==============================] - 61s 4ms/step - loss: 1.9060e-07
+Epoch 515/1000
+16556/16556 [==============================] - 67s 4ms/step - loss: 1.9029e-07
+Epoch 516/1000
+16556/16556 [==============================] - 61s 4ms/step - loss: 1.8990e-07
+Epoch 517/1000
+16556/16556 [==============================] - 64s 4ms/step - loss: 1.8963e-07
+Epoch 518/1000
+16556/16556 [==============================] - 64s 4ms/step - loss: 1.8922e-07
+Epoch 519/1000
+16556/16556 [==============================] - 63s 4ms/step - loss: 1.8903e-07
+Epoch 520/1000
+16556/16556 [==============================] - 68s 4ms/step - loss: 1.8879e-07
+Epoch 521/1000
+16556/16556 [==============================] - 63s 4ms/step - loss: 1.8840e-07
+
+
+----- Generating text after Epoch: 520
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king was close to alice: inkstand were great for to her. ’ yes, with the gave twinkling very out, and, she came upon a neat sticks of her foot the didnt ’ when the jury.
+
+Alice waited till the eyes,, she had of something ‘ now, and, theres ’ went on to herself.
+
+I ‘ dont ’ those care of the id, ’ cried the gryphon.
+
+Well ‘ say, i ‘, ’ see alice, to herself in ‘ my way, and, ’ so that that, were ‘ ’
+
+It was a very very cake she know to the door, the door, she looked at once, and said alice decidedly, and the queen was very little there in a march time was a same bit with you how to do as as they could well remember.
+
+I ‘ dont ’ directed with that it ’ if one. ’
+
+.
+Epoch 522/1000
+16556/16556 [==============================] - 65s 4ms/step - loss: 1.8805e-07
+Epoch 523/1000
+16556/16556 [==============================] - 63s 4ms/step - loss: 1.8775e-07
+Epoch 524/1000
+16556/16556 [==============================] - 64s 4ms/step - loss: 1.8754e-07
+Epoch 525/1000
+16556/16556 [==============================] - 69s 4ms/step - loss: 1.8716e-07
+Epoch 526/1000
+16556/16556 [==============================] - 66s 4ms/step - loss: 1.8690e-07
+Epoch 527/1000
+16556/16556 [==============================] - 70s 4ms/step - loss: 1.8665e-07
+Epoch 528/1000
+16556/16556 [==============================] - 68s 4ms/step - loss: 1.8635e-07
+Epoch 529/1000
+16556/16556 [==============================] - 73s 4ms/step - loss: 1.8613e-07
+Epoch 530/1000
+16556/16556 [==============================] - 67s 4ms/step - loss: 1.8570e-07
+Epoch 531/1000
+16556/16556 [==============================] - 66s 4ms/step - loss: 1.8555e-07
+
+
+----- Generating text after Epoch: 530
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite surprised, and she was now, and soon soon came of them of a talk they thought;! ’
+
+If ‘ cant ’ remember it, ’ said the king. ’
+
+That ‘ dont ’, i ‘ dont ’ know. ’ said alice, i ‘ it was you present, ’ come by as ’
+
+Go ‘ is who caucusrace ’ she looked.
+
+And ‘ said alice, a ‘ barrowful of seen, and alice to speak before, when they were knave the march of hare that the corner, his one of mad.
+
+Knave, and looked into that alice waited.
+
+The dormouse was not along ‘ came at at before, would! ’ glad the words in a very way, though what she had made it so in; she alice another close to the never into it, so as she i had so she had been changed into all quite in; and see ‘ that i wont ’ no time there it to be
+Epoch 532/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.8519e-07
+Epoch 533/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.8482e-07
+Epoch 534/1000
+16556/16556 [==============================] - 63s 4ms/step - loss: 1.8453e-07
+Epoch 535/1000
+16556/16556 [==============================] - 74s 4ms/step - loss: 1.8425e-07
+Epoch 536/1000
+16556/16556 [==============================] - 80s 5ms/step - loss: 1.8400e-07
+Epoch 537/1000
+16556/16556 [==============================] - 101s 6ms/step - loss: 1.8359e-07
+Epoch 538/1000
+16556/16556 [==============================] - 69s 4ms/step - loss: 1.8341e-07
+Epoch 539/1000
+16556/16556 [==============================] - 66s 4ms/step - loss: 1.8318e-07
+Epoch 540/1000
+16556/16556 [==============================] - 64s 4ms/step - loss: 1.8282e-07
+Epoch 541/1000
+16556/16556 [==============================] - 67s 4ms/step - loss: 1.8254e-07
+
+
+----- Generating text after Epoch: 540
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was how to say, who ‘ move over the other side of which up you know the till was however, so helped; about,; and was a little cake on on her looked, and a eyes little thing was in soldiers, as she. Her alice, not like to sure her angrily, so they can alice, a dormouse, to think up and the who; and ‘ knew of them quite through..
+
+You ‘ wish ’ have a at commotion! ’ said alice.
+
+The ‘ all can i out? ’ said the hatter.
+
+It ‘ isnt ’ mine to say, ’ said the mock turtle, but ‘, being her shrill about, she might very dormouse and her her; for her, she know.
+
+Well ‘, i should think i can, ’ the queen dance is, it all about in; and was that again as might as her could not think ”.
+
+Yes ‘, i? ’ remember
+Epoch 542/1000
+16556/16556 [==============================] - 62s 4ms/step - loss: 1.8221e-07
+Epoch 543/1000
+16556/16556 [==============================] - 80s 5ms/step - loss: 1.8193e-07
+Epoch 544/1000
+16556/16556 [==============================] - 78s 5ms/step - loss: 1.8165e-07
+Epoch 545/1000
+16556/16556 [==============================] - 67s 4ms/step - loss: 1.8141e-07
+Epoch 546/1000
+16556/16556 [==============================] - 61s 4ms/step - loss: 1.8124e-07
+Epoch 547/1000
+16556/16556 [==============================] - 64s 4ms/step - loss: 1.8082e-07
+Epoch 548/1000
+16556/16556 [==============================] - 62s 4ms/step - loss: 1.8060e-07
+Epoch 549/1000
+16556/16556 [==============================] - 85s 5ms/step - loss: 1.8035e-07
+Epoch 550/1000
+16556/16556 [==============================] - 68s 4ms/step - loss: 1.8015e-07
+Epoch 551/1000
+16556/16556 [==============================] - 69s 4ms/step - loss: 1.7983e-07
+
+
+----- Generating text after Epoch: 550
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not this, i ‘ dont ’ go! ’ she she went on a last, just how ‘ know! ’ said to herself, as she wandered upon herself in a little good made off, serpent, certainly seemed quite considered to find to king that was the hookah house, and suddenly alice on of a more, she was now, and was: one of them to do, and she was now the the moment out:, looking was up into her head time. If a air, that it was a very little cake of come, and get her to herself, and! ’
+
+The ‘ would put on, ’ the first, ’ said alice.
+
+They ‘ must have been, ’ said the mock turtle.
+
+Yes ‘, as i could, ’ the caterpillar be on in thought? ’
+
+How ‘ cant ’ a a large ’, ’ said the duchess, and ‘ thats ’ a. ’
+Epoch 552/1000
+16556/16556 [==============================] - 67s 4ms/step - loss: 1.7960e-07
+Epoch 553/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.7936e-07
+Epoch 554/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7919e-07
+Epoch 555/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7884e-07
+Epoch 556/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7860e-07
+Epoch 557/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7830e-07
+Epoch 558/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.7803e-07
+Epoch 559/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.7786e-07
+Epoch 560/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.7752e-07
+Epoch 561/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.7742e-07
+
+
+----- Generating text after Epoch: 560
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am to get? ’
+
+He ‘ your certainly said the king with his., no, ’ he called. ’
+
+I ‘ mean that i they have it would, you know, ’
+
+Alice; seven of did, and in a very cat; and this looked time he was on with a thats, ’ and alice.
+
+Why ‘, she heard a little figure assembled ’ said the gryphon: and the the queen held on and her as the we was to see it in a time of the the little: and then the queen little easy, and out of this anxiously the door: ‘ her tried, dropped down and them she was over. Alice. Come ‘, so they were ’ under with.
+
+ did they must the dormouse said, ’ said the gryphon,
+Epoch 562/1000
+16556/16556 [==============================] - 61s 4ms/step - loss: 1.7707e-07
+Epoch 563/1000
+16556/16556 [==============================] - 61s 4ms/step - loss: 1.7687e-07
+Epoch 564/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7663e-07
+Epoch 565/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7632e-07
+Epoch 566/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7624e-07
+Epoch 567/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.7581e-07
+Epoch 568/1000
+16556/16556 [==============================] - 65s 4ms/step - loss: 1.7572e-07
+Epoch 569/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.7540e-07
+Epoch 570/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.7520e-07
+Epoch 571/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.7504e-07
+
+
+----- Generating text after Epoch: 570
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am to get out? ’ so again. I ‘ is, ’ remember went, and ( if tell an his impatiently she,? ’ so she was very little claws her her up very she went never come, and and alice as she came near the again, when she she had succeeded in a right way to the game. She found the queen birds and these, for this was not quite time to say it in the conversation.
+
+But she, ’ alice alice foot, and the words to alice, she had never on in the court, when she had not quite right through in at the march, and said this time.
+
+Well ‘, what are was little said to the hatter were being the best was in one could her same oh as ‘ table, ’ said the mock
+Epoch 572/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.7485e-07
+Epoch 573/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.7461e-07
+Epoch 574/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.7431e-07
+Epoch 575/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.7418e-07
+Epoch 576/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.7390e-07
+Epoch 577/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.7378e-07
+Epoch 578/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.7355e-07
+Epoch 579/1000
+16556/16556 [==============================] - 61s 4ms/step - loss: 1.7328e-07
+Epoch 580/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7299e-07
+Epoch 581/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7279e-07
+
+
+----- Generating text after Epoch: 580
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the duchess was speaking that she ran off to alice!
+
+Once ‘ the rabbit rabbit called out, she foot his head if i was only forgotten that you. ’
+
+And ‘ you ‘ mean, ’ the hatter replied, ’ said the march hare
+
+An different, and the words to herself what ‘ did you like? ’ the gryphon went on, in ‘ dont ’ a little poor its ’ have to very pieces to make the corner.
+
+’ she shall tell the than, and off, ’
+
+
+
+Hadnt ‘ ’ said the mock turtle, ’ said alice.
+
+Of ‘ she had to be number ’ said the mock turtle with a table, and.
+
+Cant
+Epoch 582/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.7263e-07
+Epoch 583/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7238e-07
+Epoch 584/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.7221e-07
+Epoch 585/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7196e-07
+Epoch 586/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7180e-07
+Epoch 587/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7153e-07
+Epoch 588/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.7132e-07
+Epoch 589/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.7130e-07
+Epoch 590/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7099e-07
+Epoch 591/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7063e-07
+
+
+----- Generating text after Epoch: 590
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the duchess was speaking that she ran off to alice!
+
+Once ‘ the mock turtle with another of them began, the dormouse began to a low, and alice could the cat, and in a one of great to her turtles, still fitted you see as the mock turtle. ’
+
+How ‘ you? Thinking, ’ said the cat: and ‘ upon his head  ’
+
+Why ‘ you? ’ said the king, a little voice of voice canary yes, very answer! ’ she began a little in a sleep, and, that the the queen was being upset listening out she found she alice: not looked down and her head! ’
+
+How ‘ do that you began
+Epoch 592/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7068e-07
+Epoch 593/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.7035e-07
+Epoch 594/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.7017e-07
+Epoch 595/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.7004e-07
+Epoch 596/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6972e-07
+Epoch 597/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6955e-07
+Epoch 598/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6932e-07
+Epoch 599/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6908e-07
+Epoch 600/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6888e-07
+Epoch 601/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.6869e-07
+
+
+----- Generating text after Epoch: 600
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am can to you than a large?? ’ no reason? ’ said the gryphon. And ‘ i havent ’ better first at one ’ a [, ’ hatter! Was one thought the dormouse, she was not the same as she this, and did, you like see had in a very way,
+
+The next way she was and changed it was to be sure! ’
+
+Their ‘ couldnt a many out, and alice said to herself, for ‘ i ‘ eat you like she now i then! ’
+
+No ‘, it all time, ’ said the mock turtle.
+
+Yes ‘,, i know, ’ the mock turtle went on, dont, ’ be feel an come never more away with  ’
+
+There ‘ are a long of, ’ said the queen,
+Epoch 602/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6855e-07
+Epoch 603/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6827e-07
+Epoch 604/1000
+16556/16556 [==============================] - 63s 4ms/step - loss: 1.6811e-07
+Epoch 605/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.6799e-07
+Epoch 606/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.6771e-07
+Epoch 607/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.6767e-07
+Epoch 608/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.6749e-07
+Epoch 609/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.6715e-07
+Epoch 610/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.6694e-07
+Epoch 611/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.6675e-07
+
+
+----- Generating text after Epoch: 610
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the duchess was speaking that she ran off to say whether she would soon the table and so she at them she a very out, she came upon a mouse, or her at last, and he was a very truthful off.
+
+Very answer, she was a ‘ such that some ’ of larger, you how to go on who: it is stupidest be no thing a ever at another of the is is the im ’ a why to a table. ’ she was not the to say.
+
+Well ‘, as usual, ’ added the hatter: i ‘ was only youd ’ all him. ’ alice was a little idea of that that never were never! ’ said alice began
+Epoch 612/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.6665e-07
+Epoch 613/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.6648e-07
+Epoch 614/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.6624e-07
+Epoch 615/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.6600e-07
+Epoch 616/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6571e-07
+Epoch 617/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6555e-07
+Epoch 618/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.6535e-07
+Epoch 619/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.6518e-07
+Epoch 620/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6492e-07
+Epoch 621/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.6480e-07
+
+
+----- Generating text after Epoch: 620
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what in ‘ tears. ’
+
+All ‘ right, ’ said the caterpillar.
+
+Well ‘ im ’ said the cat. I never didnt ’ afraid that be it doesnt ’ to them.
+
+
+
+They had been and looked of once of her, with all, about them, and the words of march out.
+
+I ‘ couldnt it might, ’ said the cat, and alice guessed animal a little bit story get out of the door, she had never down and much and that it was all them, but she said nothing but in a an way whether like would , however its ‘ ’ about it were more more never do.
+
+This time time it had to be no, ’ said the mock turtle,).
+
+I ‘ must be dinah, ’ said alice, very she went
+Epoch 622/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6468e-07
+Epoch 623/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6433e-07
+Epoch 624/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6418e-07
+Epoch 625/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.6404e-07
+Epoch 626/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.6384e-07
+Epoch 627/1000
+16556/16556 [==============================] - 63s 4ms/step - loss: 1.6363e-07
+Epoch 628/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.6366e-07
+Epoch 629/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.6346e-07
+Epoch 630/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6335e-07
+Epoch 631/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.6318e-07
+
+
+----- Generating text after Epoch: 630
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king was close to make her face out were a thing a three in a hands, said out a minutes voice the king, and, and was all three little little glass thing as this one
+
+It over over, as, as this; its ‘ ’ very curious, it was a very thing dance at all was the time is the queen.
+
+Alice thought, i suppose i shall at any lobsters, you know.
+
+This time it very getting said, with a little cake on in fact, as ‘ it would be long long though, she she began again in a a hurry to a a,! Alice began began to herself the king, and round as the queen was close to her first, she was very very down and it was going, ” she the out of look, and growing. ’
+
+Dont ‘ ’ jury particular back, ’ she alice, and to her as he
+Epoch 632/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6296e-07
+Epoch 633/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6275e-07
+Epoch 634/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6263e-07
+Epoch 635/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6244e-07
+Epoch 636/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6226e-07
+Epoch 637/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6217e-07
+Epoch 638/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.6197e-07
+Epoch 639/1000
+16556/16556 [==============================] - 65s 4ms/step - loss: 1.6183e-07
+Epoch 640/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6161e-07
+Epoch 641/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6147e-07
+
+
+----- Generating text after Epoch: 640
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on:: ‘ you dont ’ think! ’
+
+He went on, and ‘ dont ’ see know the queen could it was so much what she did not like a very little along: she looked at the door, who seemed down in a it into the air, this turned not the first, and she went on the same the words, and to make in great whisper, that seemed like them and stupid to do of in the wood in out,?
+
+The hatter was not her foot, and the mock turtle with a duchess, she was two to speak off. A or drink with the cat for the cat, as she thought to hear it. ’
+
+Always ‘ ’ a queen, ’ said
+Epoch 642/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6128e-07
+Epoch 643/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6115e-07
+Epoch 644/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6090e-07
+Epoch 645/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6071e-07
+Epoch 646/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6062e-07
+Epoch 647/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.6052e-07
+Epoch 648/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6029e-07
+Epoch 649/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.6011e-07
+Epoch 650/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5995e-07
+Epoch 651/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5992e-07
+
+
+----- Generating text after Epoch: 650
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am to get out of? So called him, and him.
+
+You ‘ are oh! ’ said to herself.
+
+‘ ‘ you! ’ said the queen, a voice: i ‘ belongs to the word, or next.
+
+No ‘, indeed ’ she was. ’
+
+Alice was not the good bit whether well? And she could not the dormouse took to her her face, still down and had down some many little, in in my my mind fallen, she, as the queen was evidently in a moment: it was a large! Years, i like out at this, i might but to be in an place of the window., ’
+
+Well ‘, i ‘ ’ think i can go with? ’ said the caterpillar. It im ’ be is to be
+Epoch 652/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5970e-07
+Epoch 653/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5951e-07
+Epoch 654/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5940e-07
+Epoch 655/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5928e-07
+Epoch 656/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5905e-07
+Epoch 657/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5895e-07
+Epoch 658/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5874e-07
+Epoch 659/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5865e-07
+Epoch 660/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.5851e-07
+Epoch 661/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.5844e-07
+
+
+----- Generating text after Epoch: 660
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was how to say, who ‘ move over the other side of which up you know the till was however, so helped; about,; and was a little cake on on her looked, and a eyes little thing was in soldiers, as she. Her alice, not like to sure her angrily, so they can alice, a dormouse, to think up and the who; and ‘ knew of them quite through in.
+
+
+
+That ‘, ’ said the up: it ‘ it only quite long friend, and she was not like to go, who was a little before she have got round the such no idea, and she was so through fan of the sort. And she was bowed the moment she went on, but, and ’ and but her head impatiently is in through that its the queen, and this was not to them with the gryphon, but the march hare with all much much, of the cook.
+
+Alice looked at the never
+Epoch 662/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5819e-07
+Epoch 663/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.5807e-07
+Epoch 664/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5785e-07
+Epoch 665/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5769e-07
+Epoch 666/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5762e-07
+Epoch 667/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.5731e-07
+Epoch 668/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5727e-07
+Epoch 669/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5709e-07
+Epoch 670/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5690e-07
+Epoch 671/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5694e-07
+
+
+----- Generating text after Epoch: 670
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was how to say, who ‘ move over the other yet? ’ the march hare to table very little door, had.
+
+This time, and alice was very little door, they all all round. ’, as ‘ perhaps. ’
+
+I ‘ mean it ’, ’ said the hatter, when ‘ the next is, and a minute you put of this and a may,? ’ said the mock turtle, you ‘, off the great moment, ’ all ’ at the go
+
+ ‘ into one eyes enough, but the im ’ even! ’
+
+There was a table it very very for; and was sitting, other ‘ course! ’ and im ’ a at!! With me for! No, i think up can very much and come. Two! Its ’ done i that in more more that it could not be mabel even thought at them at a never rabbit gloves, and a duchess days after it ran, she was
+Epoch 672/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5668e-07
+Epoch 673/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5667e-07
+Epoch 674/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5640e-07
+Epoch 675/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5627e-07
+Epoch 676/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.5605e-07
+Epoch 677/1000
+16556/16556 [==============================] - 58s 4ms/step - loss: 1.5611e-07
+Epoch 678/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5580e-07
+Epoch 679/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5578e-07
+Epoch 680/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5559e-07
+Epoch 681/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5533e-07
+
+
+----- Generating text after Epoch: 680
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite much, and this she had never been and she was it on to and pretty she put to find her, though seemed was the little down her sadly in the same her, so, that her arm put on!, and she began not pleased to adjourn: out, i shall have to tell its ’ a great you. ’ the mock turtle if you were how might be how in silence all ” but i never ” ” ’ the gryphon. ’
+
+One, so much his head ’ at the other, for thought to herself, i ‘ dont ’ see see he wont ’ she thought. He poor shouted we very afraid.
+
+
+
+Hadnt the alice is, ’ the gryphon remarked how in an tone.
+
+Very ‘ ’ go on! ’ she went on. ‘ would you like a treacle? ’ said. I ‘ when i can have been changed, and
+
+Talking; and ‘ that is any what i is something to have
+Epoch 682/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5527e-07
+Epoch 683/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5506e-07
+Epoch 684/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5496e-07
+Epoch 685/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5484e-07
+Epoch 686/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5466e-07
+Epoch 687/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5457e-07
+Epoch 688/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5430e-07
+Epoch 689/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5424e-07
+Epoch 690/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.5408e-07
+Epoch 691/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5395e-07
+
+
+----- Generating text after Epoch: 690
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am can to you than a large?? ’ thought? ’
+
+I ‘ the same, ’ said the caterpillar.
+
+Well ‘, perhaps you ‘ ’ said the king, and said alice whispered to say, she went on for some she had while! ’
+
+Five ‘ im ’ beginning at more that her day.
+
+The dormouse on his spectacles, going, ’ said the gryphon, and ‘ then he.
+
+No ‘, theyre ’ not, ’ said the hatter: i ‘ could ’ how well that is ’
+
+Youd ‘ ’ a little puppy, ’ said the caterpillar.
+
+Well ‘, then, ’ the cat remarked, a last. However roots ‘ wasnt ’ trouble with it she to go on:! ’ me that, in a herself! ’
+
+Yes
+Epoch 692/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5372e-07
+Epoch 693/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.5364e-07
+Epoch 694/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5359e-07
+Epoch 695/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5336e-07
+Epoch 696/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5320e-07
+Epoch 697/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5317e-07
+Epoch 698/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5300e-07
+Epoch 699/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5285e-07
+Epoch 700/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5283e-07
+Epoch 701/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5273e-07
+
+
+----- Generating text after Epoch: 700
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on:: ‘ you dont ’ think! ’
+
+He went on, and ‘ dont ’ see know the queen could it was so much what she did not like them? ’
+
+Ah ‘, they were ’ the hatter.
+
+Suppose ‘ like? ’ have matter eyes. ’
+
+The hatter was,! ’ the mouse remarked.
+
+Once ‘ ‘! ’ said the king.
+
+Then she never ’ a little read them, ’ said the gryphon, and ‘ those the is ’ cries the mock turtle said, ive, ’ seen how to alice moment it was im ’ sure.
+
+I ‘ wont ’ remember! ’ youre ’ ’ said alice:) it was quite a little to make out
+Epoch 702/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5260e-07
+Epoch 703/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5235e-07
+Epoch 704/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5232e-07
+Epoch 705/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5214e-07
+Epoch 706/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.5191e-07
+Epoch 707/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5181e-07
+Epoch 708/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5172e-07
+Epoch 709/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5145e-07
+Epoch 710/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5147e-07
+Epoch 711/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.5132e-07
+
+
+----- Generating text after Epoch: 710
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king was close to make her face out were a thing a three in a hands, said out a minutes voice the king, and, and was all three little little glass thing as this one
+
+It over over, as, as this; its ‘ ’ very curious, it was a very thing and this sat it was you was, in this took it had been changed over the sure then of growing.
+
+Well ‘! ’ said the queen, that had decided for into into a ill. ’
+
+It ‘ is wrong use beginning in at the first, but they all about to the its ’ ’
+
+Youre ‘ ’ a great as yet ’ said alice, pointing to herself as she youre the jury to an a place of the mock turtle.
+
+Very ‘ much what i mean that you know the can, in the wouldnt, ’ said the.
+
+This ‘ is, ’ said the
+Epoch 712/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5123e-07
+Epoch 713/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5114e-07
+Epoch 714/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5101e-07
+Epoch 715/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5094e-07
+Epoch 716/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5065e-07
+Epoch 717/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5066e-07
+Epoch 718/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5056e-07
+Epoch 719/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5045e-07
+Epoch 720/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.5029e-07
+Epoch 721/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5021e-07
+
+
+----- Generating text after Epoch: 720
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the poor little hatter went was or two about had had insult its little thing her, but in all my way, and the queen seemed to to be one of the officers of the officers: but the hatter was a little nervous about it: at all the said very little rabbit, who had been changed round her as close, it into shouting.
+
+The ‘ time she had been something her head! ’ said the gryphon, and ‘ mean cant i know you do youre ’ just them you think! ’ just as its head, ’ have me got to the alice an to the dinah, if you were down! ’
+
+Youd ‘ shall an have idea to ’, ’ said
+Epoch 722/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.5007e-07
+Epoch 723/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4993e-07
+Epoch 724/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4977e-07
+Epoch 725/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4956e-07
+Epoch 726/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4960e-07
+Epoch 727/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4949e-07
+Epoch 728/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4934e-07
+Epoch 729/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4919e-07
+Epoch 730/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4918e-07
+Epoch 731/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4913e-07
+
+
+----- Generating text after Epoch: 730
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am can to you than a large?? ’ thought? ’
+
+I ‘ the same, ’ said the caterpillar.
+
+Well ‘, perhaps you ‘ ’ said the king, and said alice whispered to say, she went on over: and went all the next crab and their on from, and there was the cat listening in a distance, and she went on all to would gather as he as the king took with very to of it.
+
+At ‘ back a very meekly? ’ said the mouse, half up and a a little good half down that down, three to the little thing of one voice the mock turtle the mock turtle. And ‘, perhaps many ’ go, ’ said the mock turtle.
+
+How ‘ ‘, ’ said alice, ’ ‘ ‘ is to help
+Epoch 732/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4894e-07
+Epoch 733/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4885e-07
+Epoch 734/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4867e-07
+Epoch 735/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4858e-07
+Epoch 736/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4841e-07
+Epoch 737/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4836e-07
+Epoch 738/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4806e-07
+Epoch 739/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4801e-07
+Epoch 740/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4799e-07
+Epoch 741/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4781e-07
+
+
+----- Generating text after Epoch: 740
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the duchess was speaking that she ran off to alice!
+
+Once ‘ the rabbit rabbit called out, she foot his head feet, it turned it was just time to he no, she was now, and was the time to the queen, and thought it was it too he.
+
+Yes ‘, you ’ afraid i it that, ’ said the hatter: its ‘ ’ no. ’
+
+Sure ‘ ’ it to nothing why! ’
+
+Read ‘ did i the round? ’
+
+Well ‘, ’ said alice, what ‘ am to? ’ he.
+
+Looking anxiously round? ’ the gryphon remarked.
+
+Oh ‘! ’ said the march. Oh ‘ lobsters before
+Epoch 742/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4769e-07
+Epoch 743/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.4766e-07
+Epoch 744/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4749e-07
+Epoch 745/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4741e-07
+Epoch 746/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4731e-07
+Epoch 747/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.4713e-07
+Epoch 748/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4694e-07
+Epoch 749/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.4686e-07
+Epoch 750/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4695e-07
+Epoch 751/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4669e-07
+
+
+----- Generating text after Epoch: 750
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was how to say, who ‘ move over the other side of which up you know the im was they off, though by all had are; but the dodo was, much out, she went on:  ‘ she begins such a very an she never know what off she right, youre ‘ ’ to tell you, however she she got out the queen that the once, and to who to see her the next again, and seemed to be run its ’
+
+Oh ‘ did not again, ’ said this:, ‘ ’
+
+So they were round and looked up round and the queen of her. And till was king over to alice,! Had the cat in a very little was, who was heard before to say!
+
+They ‘ have over anxiously ’ the gryphon, for the duchess, oh ‘, bill! The duchess and imagine what you going me ’ from and him, i do my you only im ’ afraid of them, and
+Epoch 752/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4656e-07
+Epoch 753/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4644e-07
+Epoch 754/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.4636e-07
+Epoch 755/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.4631e-07
+Epoch 756/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4619e-07
+Epoch 757/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4612e-07
+Epoch 758/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4597e-07
+Epoch 759/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4585e-07
+Epoch 760/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4581e-07
+Epoch 761/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4580e-07
+
+
+----- Generating text after Epoch: 760
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am can to you than a large?? ’ thought? ’
+
+I ‘ the same, ’ said the caterpillar.
+
+Well ‘, perhaps you ‘ ’ said the king, and said alice whispered to say, she went on over: first she just. Such the other of that was like the under she had to it a far, who found, it was just in as a moment. A large of the trial which is? ’ alice thought alice, and the gryphon said how ‘ do, you know. ’
+
+You ‘ couldnt, ’ cried the eaglet, and ‘ ill ’ have to executed me, of the being way you so side, ’ said the gryphon: its ‘ ‘ both have you might you how see the mouse ’ way with replied, for the time she never
+Epoch 762/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4576e-07
+Epoch 763/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4557e-07
+Epoch 764/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4548e-07
+Epoch 765/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4535e-07
+Epoch 766/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4522e-07
+Epoch 767/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4529e-07
+Epoch 768/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4535e-07
+Epoch 769/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4508e-07
+Epoch 770/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4501e-07
+Epoch 771/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4481e-07
+
+
+----- Generating text after Epoch: 770
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the poor little hatter went was or two about had had racecourse into a minute, a began in a by of right, but it whistling.
+
+
+
+‘ you ’ not, ’ said the hatter: and ‘ i was have to say with their ’ so so they got down in the impossible not?,
+
+What ‘ a certainly? ’ said alice, a little now, why know was to more writhing again.
+
+So so that that she said to a very little good indeed.
+
+We ‘ a queen to a large, ’ said the mock turtle, but ‘, ’
+
+The gryphon could not think of her turned the game out of sat, and him to a little
+Epoch 772/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4473e-07
+Epoch 773/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4473e-07
+Epoch 774/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4451e-07
+Epoch 775/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4446e-07
+Epoch 776/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4448e-07
+Epoch 777/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4436e-07
+Epoch 778/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4427e-07
+Epoch 779/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4417e-07
+Epoch 780/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4396e-07
+Epoch 781/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.4398e-07
+
+
+----- Generating text after Epoch: 780
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the duchess was speaking that she ran off to say whether out of soon that her be about a such a little idea, that she was, and might her head to to it she upon a little, she was just in a cheshire barrowful indeed.
+
+They ‘ couldnt with have have was mine. ’
+
+Well ‘, ’ the king said to herself, and nibbled the queen of the officers: but at the march hare.
+
+Alice ‘! Sh much been had one, of all the duchess, that, but thought alice, but it was quite a very anxiously, she was ever of the gryphon, and found she would you back to the queen way down and in at all
+Epoch 782/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4386e-07
+Epoch 783/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4381e-07
+Epoch 784/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4367e-07
+Epoch 785/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4371e-07
+Epoch 786/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4351e-07
+Epoch 787/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4350e-07
+Epoch 788/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4345e-07
+Epoch 789/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4336e-07
+Epoch 790/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4330e-07
+Epoch 791/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4318e-07
+
+
+----- Generating text after Epoch: 790
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not this, i ‘ dont ’ go! ’ she said, a ‘ duchess! ’
+
+The duchess on in a cheshire barrowful of what to do it was you do to say.
+
+Of the sight again, and? ’ said the one ‘, i ‘ dont ’ see me any any, ’ alice he said.
+
+Yes ‘, you ’ said alice, i ‘ never said. Even see. Ill ’
+
+So ‘ are they right, ’ said she went very to what the next to say.
+
+‘ the next day of taught, ’ thought alice.
+
+Of ‘ course, ’ a gryphon, ’ shouted the.
+
+I ‘ couldnt to have been, ’ said alice; feeling at too a tone of a shrill.
+
+Alice ‘ see, ’ said the mock turtle.
+
+Yes ‘,, ’ said the queen.
+
+‘ no next, you know, ’ said the cat.
+
+
+Epoch 792/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4302e-07
+Epoch 793/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4310e-07
+Epoch 794/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4284e-07
+Epoch 795/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4275e-07
+Epoch 796/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4271e-07
+Epoch 797/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4268e-07
+Epoch 798/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4247e-07
+Epoch 799/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4241e-07
+Epoch 800/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4237e-07
+Epoch 801/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4227e-07
+
+
+----- Generating text after Epoch: 800
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am can to you than a large?? ’ no reason? ’ said the gryphon. And ‘ i havent ’ better first at one ’ said alice.
+
+Come ‘, ’ said alice, that ‘ never had of you all all about, in my way out of the i i was this dinah, or put it doesnt, three her and her, had so; as she as it was, she might not quite a my) i like like, as she heard know what ‘ am be in a?, ’ said the march! ’
+
+I ‘ might not be before, as she came; and some that of her had never never ’ and seen in at about. ’
+
+I ‘ couldnt think youre ’ mad said, ’ said alice, and ‘ know as she thought the
+Epoch 802/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4228e-07
+Epoch 803/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4207e-07
+Epoch 804/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4202e-07
+Epoch 805/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4203e-07
+Epoch 806/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4181e-07
+Epoch 807/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4179e-07
+Epoch 808/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4160e-07
+Epoch 809/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4167e-07
+Epoch 810/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4156e-07
+Epoch 811/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4143e-07
+
+
+----- Generating text after Epoch: 810
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the poor little hatter went was or two about had had carry it so very how to listen it was the so one way down the door, so she sat down and alice, to come,) ‘ do like you! ’ said the pigeon, a jury out of two.
+
+The cat first she was over about: she said never ’ a very curious thing! ’
+
+She went on, and to the queen of little to be a: writhing ‘ one of the ’ cake bit.
+
+Are ‘ you you at little rabbit! ’ said alice.
+
+Whos ‘ ’ said, a great of a, ’ said the mock turtle, but ‘, ’
+
+The gryphon turned
+Epoch 812/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4133e-07
+Epoch 813/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4127e-07
+Epoch 814/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4106e-07
+Epoch 815/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4112e-07
+Epoch 816/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4108e-07
+Epoch 817/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4086e-07
+Epoch 818/1000
+16556/16556 [==============================] - 59s 4ms/step - loss: 1.4087e-07
+Epoch 819/1000
+16556/16556 [==============================] - 58s 3ms/step - loss: 1.4071e-07
+Epoch 820/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4065e-07
+Epoch 821/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4063e-07
+
+
+----- Generating text after Epoch: 820
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on:: ‘ you dont ’ think! ’
+
+He went on, and ‘ dont ’ see know the queen could it was so much what she did not like a very little along: she looked at the door, who seemed down in it it she could not last whether she would taught ordered turn times and and tried out of come, no before the garden of the window, and she came her to the pieces she might not some time she was the out of the pool, but in she began again over dare she did smaller, and know she this first, she found it that fallen a little time, ’ said the mock turtle, and ‘ then! ’ the poor ( is had to got down and
+Epoch 822/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4062e-07
+Epoch 823/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4046e-07
+Epoch 824/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4032e-07
+Epoch 825/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4032e-07
+Epoch 826/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4025e-07
+Epoch 827/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.4021e-07
+Epoch 828/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.4002e-07
+Epoch 829/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.3997e-07
+Epoch 830/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3991e-07
+Epoch 831/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3981e-07
+
+
+----- Generating text after Epoch: 830
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king was close, and seemed to the hot of the heads so of she them she hand in the other: it was back quite again again ’ an afraid. So they got ’ try the hatter: one one her adventures to look of they was, changed the gryphon in the should see hear ‘ have ’ been downward ’ the much, and much, ’ picking the one about it,)
+
+The dormouse seemed to her began to silence:: if the queen voice and then; is the little; and think, that is be the first she was, for she ran.
+
+Sure she she was not whether whether would would not be not yet out as she would any any of a minute, and began the parchment. She ‘ might you getting! ’ the hatter said, as she could, for ‘ wasnt ’ know. ’
+
+Why ‘, ’ heard the caterpillar. I ‘ wasnt ’
+Epoch 832/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3976e-07
+Epoch 833/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3964e-07
+Epoch 834/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3960e-07
+Epoch 835/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3953e-07
+Epoch 836/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3945e-07
+Epoch 837/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3920e-07
+Epoch 838/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3927e-07
+Epoch 839/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3921e-07
+Epoch 840/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.3908e-07
+Epoch 841/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3905e-07
+
+
+----- Generating text after Epoch: 840
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was how to say, who ‘ move over the other side of which up you know the im was they off, though by that had two, who was only pleased,
+
+Oh was a little of the other ‘, then, ’ said the queen,
+
+Would ‘ you mean that! ’ said the pigeon a duchess, out out she foot the would but of present of the any one and the minute she the duchess, she went on to sides: one ‘ we just what am us? ’ alice she the great close and found. And the march of birds; and ‘ ’
+
+Not ‘ heard, ’ said the caterpillar: it it was but on.
+
+At the a she is, and began to herself with one one of the officers of the other: ‘ are everybody! ’
+
+I ‘ went on like the sea, ’ said alice.
+
+Well ‘, then, ’ said alice, how ‘ ’ do. ’
+
+You
+Epoch 842/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3890e-07
+Epoch 843/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3889e-07
+Epoch 844/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3875e-07
+Epoch 845/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3882e-07
+Epoch 846/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3869e-07
+Epoch 847/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3858e-07
+Epoch 848/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3845e-07
+Epoch 849/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3839e-07
+Epoch 850/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3841e-07
+Epoch 851/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3833e-07
+
+
+----- Generating text after Epoch: 850
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am can to you than a large?? ’ thought? ’
+
+I ‘ the same, ’ said the caterpillar.
+
+Well ‘, perhaps you ‘ ’ said the king, and said alice, and ‘ you know you was now, if ‘ i only one ”! ’ him alice, i_ ‘ dont ’ know what was more than with! ’ thought to see as she might her, as well was as if.
+
+!
+
+I ‘ couldnt of remember it ’ said the large hare thing that had never it seen? ’
+
+But they all about the different,) the mock turtle turtle her ever, were made: up as without asking, and all the queen, near all sorts, but i dont ’ know. ’ he ‘ looking are you out of a mock turtle
+Epoch 852/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3810e-07
+Epoch 853/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3817e-07
+Epoch 854/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3796e-07
+Epoch 855/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3798e-07
+Epoch 856/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3797e-07
+Epoch 857/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3778e-07
+Epoch 858/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3779e-07
+Epoch 859/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3765e-07
+Epoch 860/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3758e-07
+Epoch 861/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3751e-07
+
+
+----- Generating text after Epoch: 860
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king was close to make her face out were a thing a three in a hands, said out a minutes voice the king, and, and was all three little little glass thing as this one
+
+It over over, as, as this; its ‘ ’ very curious ’ it it, ’
+
+The hatter looked was to think to herself, as ‘ now of the gryphon? ’
+
+The ‘ couldnt on in a melancholy, ’ said alice.
+
+You ‘ mean, ’ said alice.
+
+Then ‘ you then, ’ said the gryphon, and ‘ mean what i is when i wish quite ” you know. ’
+
+Yes ‘, i cant ’ remember alice, ’ said alice, i ‘ ’ what i as if ’
+
+And shant you tell it, ’ me me that? ’
+
+Well ‘, it was not a moment! ’ do on. They ‘ couldnt that! The
+Epoch 862/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3740e-07
+Epoch 863/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3732e-07
+Epoch 864/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3742e-07
+Epoch 865/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3722e-07
+Epoch 866/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3714e-07
+Epoch 867/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3700e-07
+Epoch 868/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3697e-07
+Epoch 869/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3695e-07
+Epoch 870/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.3683e-07
+Epoch 871/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3680e-07
+
+
+----- Generating text after Epoch: 870
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on:: ‘ you dont ’ think! ’
+
+He went on, and ‘ dont ’ see know the queen could it was so much what she did not like a very little along: she looked at the door, who seemed down in a it into the air, this turned not the first, and she went on the same the just, and to eat sure to the shriek of the going to squeaking the paper.
+
+No ‘, is these down? ’ said the hatter and just as the next sister his hand.
+
+It was a very little bit, of had was about down into a garden, or ‘ dont ’ go her thinking about! ’
+
+How ‘ cant ’ be? ’ do ’
+Epoch 872/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3672e-07
+Epoch 873/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3660e-07
+Epoch 874/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3657e-07
+Epoch 875/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3645e-07
+Epoch 876/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3642e-07
+Epoch 877/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3635e-07
+Epoch 878/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3630e-07
+Epoch 879/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3629e-07
+Epoch 880/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3614e-07
+Epoch 881/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3614e-07
+
+
+----- Generating text after Epoch: 880
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the poor little hatter went was or two about had had dig of them her, and not the cat was being her heard in a thats ’ a little to surprised that seen it was, when they had been in a large she, that it was now, and a large out of its mouth, and she went on, whats ‘ ’ enough to kill.
+
+Oh, very much! ’ said alice, i ‘ never was so much as i heard before if) them.
+
+Only they that one nose raving of the duchess tumbled after it. ’
+
+The queen time went and alice, i ‘ was i think i can; with you do! ’
+
+Youd ‘ ’ gone
+Epoch 882/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3610e-07
+Epoch 883/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3603e-07
+Epoch 884/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.3597e-07
+Epoch 885/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3588e-07
+Epoch 886/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3586e-07
+Epoch 887/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3579e-07
+Epoch 888/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3573e-07
+Epoch 889/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3560e-07
+Epoch 890/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3575e-07
+Epoch 891/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3557e-07
+
+
+----- Generating text after Epoch: 890
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the poor little hatter went was or two about had had teeth it so that it was the well, and the cat, and he was not ‘ again, sir at the time, and had it away arranged back to do that remark size, the dormouse master up into one began, who began came; and alice as both ‘ down, would you see what the cat. ’ but as if.
+
+One ‘, i know! ’ said the caterpillar, that it was. But ‘ that never be only nodded that in you. No ‘ ’ my said to the go! ’
+
+Well ‘, what her? ’ said the gryphon, half ‘ itself its ‘ ’ see oh
+Epoch 892/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3545e-07
+Epoch 893/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3539e-07
+Epoch 894/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3528e-07
+Epoch 895/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3540e-07
+Epoch 896/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3519e-07
+Epoch 897/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3529e-07
+Epoch 898/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3512e-07
+Epoch 899/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3503e-07
+Epoch 900/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3510e-07
+Epoch 901/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3507e-07
+
+
+----- Generating text after Epoch: 900
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not this, i ‘ dont ’ go! ’ she said, a ‘ duchess! Out what their day; and is to ear that again were one ‘! ’ said, as to bring her one for the game she had such a deal frightened of she went: but she found herself down and, no back to the queen:
+
+Hand ‘! ’ the mock turtle went on, that came had one of more kid there did was one more sure to are they should considered a while
+
+Treacle ‘ did, ’ they yet to show the gryphon) of ‘ am i to get with? ’
+
+Talking the hatter she up to the table, but she got to the a little cake, so suddenly the king said, and went the queen to be tea, ’
+
+The hatter was an not what to the dormouse.
+
+So her very very little she, she had had through the her said it in a corner three
+Epoch 902/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3494e-07
+Epoch 903/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3484e-07
+Epoch 904/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3484e-07
+Epoch 905/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3467e-07
+Epoch 906/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3472e-07
+Epoch 907/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3465e-07
+Epoch 908/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3460e-07
+Epoch 909/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3457e-07
+Epoch 910/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3443e-07
+Epoch 911/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3441e-07
+
+
+----- Generating text after Epoch: 910
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite much, and this she had never been and she is is it and she would quite with you how to do as i am, so to you at one of they had!
+
+There was one into them spoke, she went on for growing at her face was going at any a fan,), ive ‘ round to have such a soup to herself of it, or havent, ’ said the poor, and ‘ i dont ’ know what he had ’ a me, ’ and she went on, whats ‘ ’ the name to child,
+
+Suddenly king turned it a always, and seldom that he was quite a of them, and was a little tight she did, so that she cant do, and said alice bit; but she had other frightened like another appeared, as it was a little say into that could, being had such a theres with off with one of them to hear it only say to she ever, this she went
+Epoch 912/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3442e-07
+Epoch 913/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3438e-07
+Epoch 914/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3424e-07
+Epoch 915/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.3424e-07
+Epoch 916/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3424e-07
+Epoch 917/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3425e-07
+Epoch 918/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3401e-07
+Epoch 919/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3400e-07
+Epoch 920/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3392e-07
+Epoch 921/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3383e-07
+
+
+----- Generating text after Epoch: 920
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the duchess was speaking that she ran off to alice!
+
+Once ‘ the mock turtle with another of them began, the dormouse began to a low, and alice looked at the sure whether its ‘ ’ very easy of take the off.
+
+Well ‘! ’ said the queen.
+
+Then ‘ it in! ’, just said all like such such this, she was doesnt ’ find thought that it and shouted of. ’ and be herself never never one, of course, i he was what very very curious; it know.
+
+Come ‘, here ’ the use after that, ’ the hatter said, and ‘ the queen that is would be into the best, this,
+Epoch 922/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3378e-07
+Epoch 923/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3374e-07
+Epoch 924/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3365e-07
+Epoch 925/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3362e-07
+Epoch 926/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3362e-07
+Epoch 927/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3357e-07
+Epoch 928/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3348e-07
+Epoch 929/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3349e-07
+Epoch 930/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3338e-07
+Epoch 931/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3326e-07
+
+
+----- Generating text after Epoch: 930
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the poor little hatter went was or two about had had whom it would be quite, in such that squeaked as this time.
+
+It ‘ was very very much!
+
+’
+
+The mouse was up into a brought her called through the queen. And the everybody she couldnt to hear it say and then she put off she felt of her to they were: it was the so that if, she hurried of the go and expecting to make what respectable it! ’ be hot were she, and said the queen, and her voice in a moment it was was on, yet ‘ a right high, to make with sure. I ‘ we never the doing when ’ that the hatter,
+Epoch 932/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3323e-07
+Epoch 933/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3321e-07
+Epoch 934/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3316e-07
+Epoch 935/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3307e-07
+Epoch 936/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3301e-07
+Epoch 937/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3297e-07
+Epoch 938/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3299e-07
+Epoch 939/1000
+16556/16556 [==============================] - 60s 4ms/step - loss: 1.3289e-07
+Epoch 940/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3294e-07
+Epoch 941/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3283e-07
+
+
+----- Generating text after Epoch: 940
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the duchess was speaking that she ran off to say whether she would soon double first room that sighed another how she on it was more, it was a very cat, who was only the time to the first in a minute or two, looking at it all with some executions in alice. Go ‘ might i hadnt ’ quite been she went and now of them whether its ’ ’ several a sure  ’
+
+How ‘ are they made the? ’ said alice, in a an tone tone; how ‘ you, ’ the king in a middle or only to the best.
+
+Of ‘ are you want to get? ’ said the cat, and as if as she was, whether
+Epoch 942/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3281e-07
+Epoch 943/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3271e-07
+Epoch 944/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3271e-07
+Epoch 945/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3256e-07
+Epoch 946/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3259e-07
+Epoch 947/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3258e-07
+Epoch 948/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3246e-07
+Epoch 949/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.3231e-07
+Epoch 950/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3235e-07
+Epoch 951/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3247e-07
+
+
+----- Generating text after Epoch: 950
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not this time.
+
+It ‘ is a little finish, ’ said the mock turtle, ive ‘ ’ talk for moral in a if.
+
+So they would ’ only the next to you a., youre ’ one said this, i ‘ wonder what i think ” can be which up? I by ( same i was have to you; and she that upon a corner or mouse was sitting on ’ the hatter, and in her slates to ‘ dont ’ see what to do..
+
+When if a of the you was? ’ said the cat.
+
+You or not a large of them, were ’ said the hatter: you ‘ might might to be? ’
+
+Suddenly ‘, im ’ not a great deal about down, ’ said the march hare.
+
+Alice ‘, i know to say, as at once of one had! ’
+
+Are ‘ you didnt ’ said the cat.
+
+Im ‘
+Epoch 952/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3226e-07
+Epoch 953/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3227e-07
+Epoch 954/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3218e-07
+Epoch 955/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3217e-07
+Epoch 956/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3217e-07
+Epoch 957/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3227e-07
+Epoch 958/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3204e-07
+Epoch 959/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3196e-07
+Epoch 960/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3185e-07
+Epoch 961/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3180e-07
+
+
+----- Generating text after Epoch: 960
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden little heavy. Did the white went on, and he got up and he a added,) suddenly alice got to the door, she went on: but ‘, ’ the poor little hatter went was or two about had had lamps round, and, as this the queen was not them to the door the best said, which, who had been.
+
+All the heads? At the a sort of these been executed, be growing as if he could, as he he. ’
+
+Alice waited till you know, she was quite surprised to find her the rabbits ’ an cake, but she had all his any in out: up, she had some of that it wont; when it, as safe as nothing daresay its ‘ know.
+
+Are was a a voice not make her ’ chatte their out her cat in a be, and well ‘ ’
+Epoch 962/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3177e-07
+Epoch 963/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3168e-07
+Epoch 964/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3166e-07
+Epoch 965/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3153e-07
+Epoch 966/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3163e-07
+Epoch 967/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3153e-07
+Epoch 968/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3157e-07
+Epoch 969/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3143e-07
+Epoch 970/1000
+16556/16556 [==============================] - 57s 3ms/step - loss: 1.3138e-07
+Epoch 971/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3138e-07
+
+
+----- Generating text after Epoch: 970
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not this, i ‘ dont ’ go! ’ she said, a ‘ duchess! Out what is for it in is to to be drink as it that of be more, as she could not hear that say it in a my tone, which was i find to growing that to herself, as she i had to herself how ‘ knew of that off: at all she had my more the duchess; and, she was thats ‘ ’ sure ‘ ‘ i they were ’ the know. ’
+
+Alice looked at once, and well ‘, for the the time she said to never never an right! ’ and she was too little startled when half heard heard as as if he were in my.
+
+‘ they since at some them with one. Of the queen: it was all kind with out out of this he had never never kid thing! I ’ cried it is as now,), she began by the right
+Epoch 972/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3133e-07
+Epoch 973/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3124e-07
+Epoch 974/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3117e-07
+Epoch 975/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3119e-07
+Epoch 976/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3108e-07
+Epoch 977/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3109e-07
+Epoch 978/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3124e-07
+Epoch 979/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3107e-07
+Epoch 980/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3097e-07
+Epoch 981/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3079e-07
+
+
+----- Generating text after Epoch: 980
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king looked anxiously alice, and the king golden; and then the queen,, and to herself what ‘ am can to you than a large?? ’ thought? ’
+
+I ‘ the same, ’ said the caterpillar.
+
+Well ‘, perhaps you ‘ ’ said the mouse, that said alice, and a kind of its ’ talk,)
+
+The door turned the mock turtle.; and ‘ how i can think, ’ said alice, i ‘ mean i was think of; ” and then! ’
+
+You ‘ see in mean that, ’ said the gryphon, and couldnt the next its a attending or or this time.
+
+The dormouse was not to! Without what a long a second of one of the march hare she had foot never yet. Alice asked, as it could, very absurd, indeed for ‘ would be, for this time you would be only the gryphon till
+Epoch 982/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3100e-07
+Epoch 983/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3085e-07
+Epoch 984/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3078e-07
+Epoch 985/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3074e-07
+Epoch 986/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3073e-07
+Epoch 987/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3061e-07
+Epoch 988/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3070e-07
+Epoch 989/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3069e-07
+Epoch 990/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3064e-07
+Epoch 991/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3050e-07
+
+
+----- Generating text after Epoch: 990
+----- Generating with seed: "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing "
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: or or she she had to it was quite in; and was not different.
+
+The king was close, and seemed to the use, but that in more find her.
+
+The we was very changed to him it so they would alice, ’ so she the do in one of them had called out,
+
+There she found of the room her foot her back in the game turtle the middle, and ‘ the cat: she was only his size though why he she tried at the coming, and found that her a great which with a now, and the dodo, thats ‘ ’ a little! ’
+
+I ‘ might on with with the game, ’ said the gryphon, and ‘ those would you like the jurymen in a sentence of them.
+
+All so they please! ’ said the king own a little bit two out at the well, and ‘ on! ’ they see, in the hatter way, or like the go, not only to make one one of the gryphon
+Epoch 992/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3043e-07
+Epoch 993/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3044e-07
+Epoch 994/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3041e-07
+Epoch 995/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3033e-07
+Epoch 996/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3035e-07
+Epoch 997/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3036e-07
+Epoch 998/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3022e-07
+Epoch 999/1000
+16556/16556 [==============================] - 56s 3ms/step - loss: 1.3026e-07
+Epoch 1000/1000
+16556/16556 [==============================] - 55s 3ms/step - loss: 1.3011e-07
