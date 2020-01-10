@@ -1,6 +1,6 @@
-numpy
-keras
-matplotlib
-pandas
-jupyter
-tensorflow
+numpy==1.18.1
+keras==2.3.1
+matplotlib==3.2.0rc1
+pandas==1.0.0rc0
+jupyter==1.0.0
+tensorflow==1.13.1
